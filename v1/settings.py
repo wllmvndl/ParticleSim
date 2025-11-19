@@ -16,5 +16,5 @@ damping = 0.997
 
 gravitation = 10
 couloumb = 200
-
 strong = 500
+
