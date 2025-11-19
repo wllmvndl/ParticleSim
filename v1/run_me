@@ -1,1 +1,7 @@
+import simulation
 
+# Create and Run Simulation
+sim = simulation.Simulation()
+
+if __name__ == "__main__":
+    sim.game_loop()
