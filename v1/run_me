@@ -1,3 +1,11 @@
+# Requires Pygame
+
+# Controls:
+#    Space - Add Electron
+#    P, N - Add Proton, Neutron
+#    R - Clear Particles
+#    Esc - Close Window
+
 import simulation
 
 # Create and Run Simulation
