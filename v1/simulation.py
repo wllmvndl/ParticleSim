@@ -76,10 +76,3 @@ class Simulation:
 
         pygame.quit()
         sys.exit()
-
-
-# Create and Run Simulation
-sim = Simulation()
-
-if __name__ == "__main__":
-    sim.game_loop()
