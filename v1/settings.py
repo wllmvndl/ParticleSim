@@ -1,6 +1,6 @@
 screen_width = 720
 screen_height = 720
-screen_depth = 20
+screen_depth = 360
 
 world_dimensions = [screen_width, screen_height, screen_depth]
 
@@ -16,4 +16,5 @@ damping = 0.997
 
 gravitation = 10
 couloumb = 200
+
 strong = 500
